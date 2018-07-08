@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: A
-slug: A
-category: document
+title: Django
+slug: django
+category: develop
 menu: false
 order: 1
 ---

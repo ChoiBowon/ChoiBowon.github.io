@@ -1,8 +1,0 @@
----
-layout: tag-blog
-title: React
-slug: react
-category: develop
-menu: false
-order: 1
----
