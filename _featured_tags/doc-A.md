@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: React
-slug: react
-category: develop
+title: A
+slug: A
+category: document
 menu: false
 order: 1
 ---
