@@ -2,8 +2,8 @@
 layout: post
 title:  "[playnode 2017] 클라우드 시대의 node.js"
 subtitle:   "playnode"
-categories: review
-tags: event
+categories: develop
+tags: django
 comments: true
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "[웹테크]원모먼트에 vue쓰기"
 subtitle:   "원모먼트에 vue쓰기"
-categories: review
-tags: event
+categories: cars
+tags: selfdriving
 comments: true
 ---
 

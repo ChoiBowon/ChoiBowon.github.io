@@ -2,8 +2,8 @@
 layout: post
 title:  "[타입스크립트] TypeScript"
 subtitle:   "TypeScript"
-categories: typescript
-tags: tutorial
+categories: develop
+tags: selfdriving
 comments: true
 ---
 

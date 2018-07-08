@@ -2,8 +2,8 @@
 layout: post
 title:  "[웹테크]엔터프라이즈 리액트"
 subtitle:   "엔터프라이즈 리액트"
-categories: review
-tags: event
+categories: develop
+tags: django
 comments: true
 ---
 
